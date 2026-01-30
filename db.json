@@ -1,0 +1,30 @@
+{
+  "videojuegos": [
+    {
+      "id": "1",
+      "nombre": "The Legend of Zelda: Breath of the Wild",
+      "descripcion": "Olvida todo lo que sabes sobre los juegos de The Legend of Zelda. Entra en un mundo de descubrimientos, exploración y aventura en The Legend of Zelda: Breath of the Wild, un nuevo juego de la aclamada serie que rompe con las convenciones.",
+      "fecha_lanzamiento": "2017-03-03",
+      "compania": "Nintendo",
+      "plataformas": ["Switch"],
+      "categorias": ["Aventura", "Rol"],
+      "precio": 59.99,
+      "imagen": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a7796d8e06bf9",
+      "video": "https://www.youtube.com/watch?v=zw47_q9wbBE"
+    },
+    {
+      "id": "2",
+      "nombre": "Elden Ring",
+      "descripcion": "Levántate, Tiznado, y déjate guiar por la gracia para esgrimir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias. Un enorme mundo lleno de emoción donde los campos abiertos y fluidos se conectan.",
+      "fecha_lanzamiento": "2022-02-25",
+      "compania": "FromSoftware",
+      "plataformas": ["PC", "PS5", "Xbox One"],
+      "categorias": ["Rol", "Aventura"],
+      "precio": 69.99,
+      "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/phvVT0qZfcRms5qDAk0SI3CM.png",
+      "video": "https://www.youtube.com/watch?v=E3Huy2cdih0"
+    }
+  ],
+  "categorias": ["Lucha", "Arcade", "Plataformas", "Shooter", "Estrategia", "Simulación", "Deporte", "Aventura", "Rol", "Educación", "Puzzle"],
+  "plataformas": ["PC", "PS5", "Xbox One", "Switch", "Android", "iOS", "Otras"]
+}
